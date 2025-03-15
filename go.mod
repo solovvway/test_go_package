@@ -1,4 +1,4 @@
-module github.com/solovvway/test_go_package_db
+module github.com/solovvway/test_go_package
 
 go 1.24.1
 
